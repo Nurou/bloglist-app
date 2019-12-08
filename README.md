@@ -7,7 +7,7 @@ This is a simple full-stack application where a user can:
 - like/remove the posts
 - view a list of the blogs/users who added them
 
-Although limited, the app features a bunch of technologies, including:
+The app has been created for learning purposes and features:
 
 Front-End:
 
